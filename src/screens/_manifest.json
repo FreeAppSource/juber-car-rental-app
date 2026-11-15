@@ -1,0 +1,100 @@
+{
+ "app": "Juber Car Rental App",
+ "start": "s-1-splash-screen",
+ "screens": [
+  {
+   "slug": "s-1-splash-screen",
+   "name": "1_Splash Screen",
+   "page": "\ud83d\udc41 Components Overview",
+   "w": 375,
+   "h": 812,
+   "elements": 18,
+   "links": 3
+  },
+  {
+   "slug": "s-2-sign-up",
+   "name": "2_Sign Up",
+   "page": "\ud83d\udc41 Components Overview",
+   "w": 375,
+   "h": 812,
+   "elements": 28,
+   "links": 3
+  },
+  {
+   "slug": "s-3-log-in",
+   "name": "3_Log In",
+   "page": "\ud83d\udc41 Components Overview",
+   "w": 375,
+   "h": 812,
+   "elements": 28,
+   "links": 3
+  },
+  {
+   "slug": "s-4-privacy-security",
+   "name": "4_Privacy & Security",
+   "page": "\ud83d\udc41 Components Overview",
+   "w": 375,
+   "h": 812,
+   "elements": 28,
+   "links": 2
+  },
+  {
+   "slug": "s-5-update-informations",
+   "name": "5_Update Informations",
+   "page": "\ud83d\udc41 Components Overview",
+   "w": 375,
+   "h": 812,
+   "elements": 24,
+   "links": 2
+  },
+  {
+   "slug": "s-6-home",
+   "name": "6_Home",
+   "page": "\ud83d\udc41 Components Overview",
+   "w": 375,
+   "h": 812,
+   "elements": 31,
+   "links": 2
+  },
+  {
+   "slug": "s-7-my-favorites",
+   "name": "7_My favorites",
+   "page": "\ud83d\udc41 Components Overview",
+   "w": 375,
+   "h": 812,
+   "elements": 36,
+   "links": 3
+  },
+  {
+   "slug": "s-8-booking-details",
+   "name": "8_Booking Details",
+   "page": "\ud83d\udc41 Components Overview",
+   "w": 375,
+   "h": 812,
+   "elements": 107,
+   "links": 2
+  },
+  {
+   "slug": "s-9-booking-details-full-view",
+   "name": "9_Booking Details_Full View",
+   "page": "\ud83d\udc41 Components Overview",
+   "w": 375,
+   "h": 812,
+   "elements": 84,
+   "links": 2
+  },
+  {
+   "slug": "s-10-slide-menu",
+   "name": "10_Slide Menu",
+   "page": "\ud83d\udc41 Components Overview",
+   "w": 375,
+   "h": 812,
+   "elements": 41,
+   "links": 2
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "inter"
+ ]
+}
